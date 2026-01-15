@@ -2,9 +2,13 @@
 This repository contains my personal portfolio website built with HTML and CSS , highlighting my skills , education and projects.
 
 ## 👋 About Me
+
 Name:Lokeshwari R
+
 Position:Undergraduate Student | Sports person | Intern
+
 Area:Aandarkupam,Ponneri,Tamil Nadu 601204
+
 
 I'm an undergraduate student with a sturdy concern in technology , web develop and career growth learning . I lively attend hackathons , internships , volunteering and trying to build an in-depth knowledge in Computer Science.
 
