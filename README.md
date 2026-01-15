@@ -55,6 +55,6 @@ Personal-Portfolio-WebPage/
 - Area:Ponneri,Tamil Nadu
   
 ## ✍ Author
-**Lokeshwari**
+**Lokeshwari R**
 
 Undergraduate student|Emerging Software Aspirant
